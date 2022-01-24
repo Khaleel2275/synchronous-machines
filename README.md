@@ -1,1 +1,1 @@
-# zbus
+# Synchronous machines
